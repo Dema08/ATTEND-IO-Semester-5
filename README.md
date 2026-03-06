@@ -1,7 +1,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-Backend-red)
 ![Python](https://img.shields.io/badge/Python-ComputerVision-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Vision-green)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-orange)
 ![RFID](https://img.shields.io/badge/RFID-Attendance-purple)
 
 # 🎓 ATTEND-IO: Smart Classroom untuk Presensi dan Monitoring Fokus Mahasiswa
